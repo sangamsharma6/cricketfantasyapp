@@ -1,4 +1,4 @@
-# sricket
+# cricket_fantasy_app_UI
 
 fantasy cricket app /*maintanined and designed by sangam*/
 
